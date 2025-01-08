@@ -3,7 +3,7 @@
 <img src="./A_futuristic,_vibrant_image_of_a_tech-savvy_Gen_Z_.png" alt="caesarus_droid" width="400" height="400">
 
 ## About Me
-Yo! I'm a tech-savvy Kenyan Gen Z, super hyped about using technology to shake things up in the best way possible. 🌍 I'm all about transparency, accountability, and giving power back to the people. Whether it's exposing shady leaders or helping communities thrive, I'm here for it!
+Yo! I'm tech-savvy, and super hyped about using technology to shake things up in the best way possible. 🌍 I'm all about transparency, accountability, and giving power back to the people. Whether it's exposing shady leaders or helping communities thrive, I'm here for it!
 
 ## Interests
 - **Empowering the People**: Data + Tech = Transparency. Let’s keep leaders in check! 🧐
